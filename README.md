@@ -43,7 +43,7 @@ In the terms of formatting a string, the "format string" is the template, the "f
 
 ### Format Specifiers
 
-There are actually quite a large number of valid format specifiers, but most of them have rare or obscure uses. The single most commonly used format specifier in Objective-C is `%@`, and this what is used for format arguments that are strings.
+There are actually quite a large number of valid format specifiers, but most of them have rare or obscure uses. The single most commonly used format specifier in Objective-C is `%@`, and this is what is used for format arguments that are strings.
 
 So, to print out "Hello, World!" using string formatting, we could write out an `NSLog()` like this:
 
