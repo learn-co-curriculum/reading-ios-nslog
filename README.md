@@ -70,3 +70,5 @@ Those are the very basics of using `NSLog()` with string interpolation!
 ```objc
 NSLog(@"%@", @"(づ｡◕‿‿◕｡)づ");
 ```
+
+<a href='https://learn.co/lessons/reading-ios-nslog' data-visibility='hidden'>View this lesson on Learn.co</a>
