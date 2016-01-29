@@ -71,4 +71,4 @@ Those are the very basics of using `NSLog()` with string interpolation!
 NSLog(@"%@", @"(づ｡◕‿‿◕｡)づ");
 ```
 
-<a href='https://learn.co/lessons/reading-ios-nslog' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/reading-ios-nslog' title='NSLog()ing'>NSLog()ing</a> on Learn.co and start learning to code for free.</p>
